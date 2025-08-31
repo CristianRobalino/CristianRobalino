@@ -13,29 +13,22 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Habilidades Técnicas
 
 ### 🔹 Lenguajes
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🔹 Frameworks y Librerías
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Python · Java · C# · C++ · JavaScript · TypeScript · SQL · HTML · CSS  
 
 ### 🔹 Bases de Datos
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+MySQL · PostgreSQL · Oracle · SQL Server · Firebase · MongoDB · Cassandra  
 
+### 🔹 Frameworks y Librerías
+JavaFX · Node.js · React · Angular · Bootstrap · Flutter · Spring Boot  
+
+### 🔹 Herramientas y Metodologías
+Git · GitHub · Jira · Postman · Docker · JMeter · Scrum  
+
+### 🔹 Idiomas
+- Español: Nativo  
 ---
 
 ## 📊 Estadísticas en GitHub
