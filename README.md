@@ -70,8 +70,9 @@
 ---
 
 ## 📫 Conéctate conmigo
-- 📧 **Email:** cirobalino@espe.edu.ec  
-- 💼 [LinkedIn](https://linkedin.com) *(agrega tu perfil completo aquí)*  
+- 📧 **Email Institucional:** cirobalino@espe.edu.ec
+- 📧 **Email Personal:** cristianisaak112@outlook.com 
+- 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/cristian-isaak-robalino-curay-8b101236b/))  
 
 ---
 
