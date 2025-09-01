@@ -54,8 +54,10 @@
 ![JMeter](https://img.shields.io/badge/-JMeter-1572B6?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge)
 
-### 🔹 Idiomas
-![Español](https://img.shields.io/badge/-Español-Nativo-blue?style=for-the-badge)
+### 🔹 Idiomas  
+![Español](https://img.shields.io/badge/-Español%20(Nativo)-blue?style=for-the-badge)  
+![Inglés B1](https://img.shields.io/badge/-Inglés%20(B1)-green?style=for-the-badge)
+
 
 ---
 
